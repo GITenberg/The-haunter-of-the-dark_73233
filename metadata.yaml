@@ -1,0 +1,39 @@
+_repo: The-haunter-of-the-dark_73233
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lovecraft, H. P. (Howard Phillips)
+    aliases:
+    - Lovecraft, Howard Phillips
+    - Littlewit, Humphrey
+    - Lovecraft, H.P.
+    birthdate: 1890
+    deathdate: 1937
+    gutenberg_agent_id: '34724'
+    url: http://www.gutenberg.org/2009/agents/34724
+    wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
+description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Haunter_of_the_Dark'
+gutenberg_issued: '2024-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73233'
+language: en
+pgterms:marc905: 20240304080301lovecraft
+pgterms:marc906: '1936'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publishing Company, $c1936.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcsh 'Monsters -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Curiosities and wonders -- Fiction'
+- !lcsh 'Providence (R.I.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The haunter of the dark
+url: http://www.gutenberg.org/ebooks/73233
