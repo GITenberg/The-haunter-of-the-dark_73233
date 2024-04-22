@@ -1,5 +1,8 @@
 _repo: The-haunter-of-the-dark_73233
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73233-h/images/cover.jpg
 creator:
   author:
     agent_name: Lovecraft, H. P. (Howard Phillips)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34724
     wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
 description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Haunter_of_the_Dark'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73233#The-haunter-of-the-dark
 gutenberg_issued: '2024-03-22'
 gutenberg_type: Text
 identifiers:
